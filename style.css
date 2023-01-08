@@ -46,3 +46,11 @@ h2 {
   margin-inline-end: 0px;
   font-weight: bold;
 }
+
+.link-medium {
+  color: #636363;
+  font-weight: lighter;
+  font-size: 25px;
+  font-style: italic;
+  background-image: linear-gradient(to bottom, rgb(180, 245, 208), rgb(174, 245, 203));
+}
